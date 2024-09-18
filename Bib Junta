@@ -1,0 +1,219 @@
+
+@book{o2014analysis,
+  title={Analysis of boolean functions},
+  author={O'Donnell, Ryan},
+  year={2014},
+  publisher={Cambridge University Press}
+}
+
+
+
+@article{filmus2012spectral,
+  title={Spectral Methods for Intersection Problems},
+  author={Filmus, Yuval},
+  year={2012}
+}
+
+@article{keevash2024hypercontractivity,
+  title={Hypercontractivity for global functions and sharp thresholds},
+  author={Keevash, Peter and Lifshitz, Noam and Long, Eoin and Minzer, Dor},
+  journal={Journal of the American Mathematical Society},
+  volume={37},
+  number={1},
+  pages={245--279},
+  year={2024}
+}
+
+@article{lifshitz2020set,
+  title={On set systems without a simplex-cluster and the junta method},
+  author={Lifshitz, Noam},
+  journal={Journal of Combinatorial Theory, Series A},
+  volume={170},
+  pages={105139},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{erdos1961intersection,
+  title={Intersection theorems for systems op finite sets},
+  author={Erdos, Paul},
+  journal={Quart. J. Math. Oxford Ser.(2)},
+  volume={12},
+  pages={313--320},
+  year={1961}
+}
+
+@article{friedgut2008measure,
+  title={On the measure of intersecting families, uniqueness and stability},
+  author={Friedgut, Ehud},
+  journal={Combinatorica},
+  volume={28},
+  number={5},
+  pages={503--528},
+  year={2008},
+  publisher={Springer}
+}
+
+@article{frankl2003weighted,
+  title={Weighted multiply intersecting families},
+  author={Frankl, P{\'e}ter and Tokushige, Norihide},
+  journal={Studia Scientiarum Mathematicarum Hungarica},
+  volume={40},
+  number={3},
+  pages={287--292},
+  year={2003},
+  publisher={Citeseer}
+}
+
+@article{fishburn1986probabilities,
+  title={Probabilities for intersecting systems and random subsets of finite sets},
+  author={Fishburn, Peter C and Frankl, Peter and Freed, Daniel and Lagarias, Jeffrey C and Odlyzko, Andrew M},
+  journal={SIAM Journal on Algebraic Discrete Methods},
+  volume={7},
+  number={1},
+  pages={73--79},
+  year={1986},
+  publisher={SIAM}
+}
+
+@article{friedgut2002boolean,
+  title={Boolean functions whose Fourier transform is concentrated on the first two levels},
+  author={Friedgut, Ehud and Kalai, Gil and Naor, Assaf},
+  journal={Advances in Applied Mathematics},
+  volume={29},
+  number={3},
+  pages={427--437},
+  year={2002},
+  publisher={Elsevier}
+}
+
+@article{beckner1975inequalities,
+  title={Inequalities in Fourier analysis},
+  author={Beckner, William},
+  journal={Annals of Mathematics},
+  volume={102},
+  number={1},
+  pages={159--182},
+  year={1975},
+  publisher={JSTOR}
+}
+
+%Fix below see og bibtex
+
+@inproceedings{bonami1970etude,
+  title={{\'E}tude des coefficients de Fourier des fonctions de $ \textit{L}^p (\mathnormal{G}) $},
+  author={Bonami, Aline},
+  booktitle={Annales de l'institut Fourier},
+  volume={20(2)},
+  pages={335--402},
+  year={1970}
+}
+
+@article{ellis2012triangle,
+  title={Triangle-intersecting families of graphs.},
+  author={Ellis, David and Filmus, Yuval and Friedgut, Ehud},
+  journal={Journal of the European Mathematical Society (EMS Publishing)},
+  volume={14},
+  number={3},
+  year={2012}
+}
+
+@incollection{hoffman2003eigenvalues,
+  title={On eigenvalues and colorings of graphs},
+  author={Hoffman, Alan J},
+  booktitle={Selected Papers Of Alan J Hoffman: With Commentary},
+  pages={407--419},
+  year={2003},
+  publisher={World Scientific}
+}
+
+@article{nisan1994degree,
+  title={On the degree of Boolean functions as real polynomials},
+  author={Nisan, Noam and Szegedy, Mario},
+  journal={Computational complexity},
+  volume={4},
+  pages={301--313},
+  year={1994},
+  publisher={Springer}
+}
+
+@article{kindler2002noise,
+  title={Noise-resistant boolean functions are juntas},
+  author={Kindler, Guy and Safra, Shmuel},
+  journal={preprint},
+  volume={5},
+  number={7},
+  pages={19},
+  year={2002}
+}
+
+@article{chung1986some,
+  title={Some intersection theorems for ordered sets and graphs},
+  author={Chung, Fan RK and Graham, Ronald L and Frankl, Peter and Shearer, James B},
+  journal={Journal of Combinatorial Theory, Series A},
+  volume={43},
+  number={1},
+  pages={23--37},
+  year={1986},
+  publisher={Academic Press}
+}
+
+@article{gross1975logarithmic,
+  title={Logarithmic sobolev inequalities},
+  author={Gross, Leonard},
+  journal={American Journal of Mathematics},
+  volume={97},
+  number={4},
+  pages={1061--1083},
+  year={1975},
+  publisher={JSTOR}
+}
+
+@article{huang2012size,
+  title={The size of a hypergraph and its matching number},
+  author={Huang, Hao and Loh, Po-Shen and Sudakov, Benny},
+  journal={Combinatorics, Probability and Computing},
+  volume={21},
+  number={3},
+  pages={442--450},
+  year={2012},
+  publisher={Cambridge University Press}
+}
+
+@article{keller2017junta,
+  title={The junta method for hypergraphs and Chv{\'a}tal’s simplex conjecture},
+  author={Keller, Nathan and Lifshitz, Noam},
+  journal={arXiv preprint arXiv:1707.02643},
+  volume={3},
+  number={4},
+  pages={38},
+  year={2017}
+}
+
+@article{keevash2024turan,
+    author ={Keevash, Peter and Lifshitz, Noam and Long, Eoin and Minzer, Dor} ,
+    title ={Turán problems for expanded hypergraphs} ,
+    journal = {submitted for publication},
+    year = {2024}
+}
+
+@article{furedi2014exact,
+  title={Exact solution of the hypergraph Tur{\'a}n problem for k-uniform linear paths},
+  author={F{\"u}redi, Zolt{\'a}n and Jiang, Tao and Seiver, Robert},
+  journal={Combinatorica},
+  volume={34},
+  number={3},
+  pages={299--322},
+  year={2014},
+  publisher={Springer}
+}
+
+@article{berger2023k4,
+  title={K4-intersecting families of graphs},
+  author={Berger, Aaron and Zhao, Yufei},
+  journal={Journal of Combinatorial Theory, Series B},
+  volume={163},
+  pages={112--132},
+  year={2023},
+  publisher={Elsevier}
+}
